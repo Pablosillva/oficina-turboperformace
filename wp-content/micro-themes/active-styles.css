@@ -1,0 +1,84 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Rodapé =================== */
+
+/** Rodapé >> Barra rodapé **/
+#colophon .ast-builder-grid-row-tablet-full {
+	height: 50px !important;
+	min-height: 50px !important;
+}
+
+
+/*( < 768 )*/
+@media (max-width: 767.98px) {
+
+	/*= Rodapé =================== */
+
+	/** Rodapé >> Uagb block fa5e8ad7 uagb ifb title **/
+	.uagb-block-fa5e8ad7 .uagb-ifb-title {
+	width: 220px !important;
+}
+
+	/** Rodapé >> Uagb block 2d87f849 uagb ifb title **/
+	.uagb-block-2d87f849 .uagb-ifb-title {
+	width: 210px !important;
+}
+
+	/** Rodapé >> Colophon ast social element style filled **/
+	#colophon .ast-social-element-style-filled {
+	width: 210px !important;
+}
+
+	/** Rodapé >> Post 7 heading 2 **/
+	#post-7 h2 {
+	box-sizing: border-box !important;
+}
+
+
+}
+
+
+/*( < 480 )*/
+@media (max-width: 479.98px) {
+
+	/*= Rodapé =================== */
+
+	/** Rodapé >> Post 7 heading 2 **/
+	#post-7 h2 {
+	font-size: 60px !important;
+}
+
+	/** Rodapé >> Colophon ast social element style filled **/
+	#colophon .ast-social-element-style-filled {
+	margin-left: 120px !important;
+}
+
+	/** Rodapé >> Colophon ast footer social 1 wrap **/
+	#colophon .ast-footer-social-1-wrap {
+	
+}
+
+	/** Rodapé >> Uagb block d8bee2ea uagb ifb desc **/
+	.uagb-block-d8bee2ea .uagb-ifb-desc {
+	font-size: 35px !important;
+}
+
+	/** Rodapé >> Post 7 wp image 79 **/
+	#post-7 .wp-image-79 {
+	position: static !important;
+}
+
+	/** Rodapé >> Post 13 uagb ifb title **/
+	#post-13 .uagb-ifb-title {
+	font-size: 60px !important;
+}
+
+	/** Rodapé >> Post 13 uagb ifb desc **/
+	#post-13 .uagb-ifb-desc {
+	line-height: 1 !important;
+}
+
+
+}
+
